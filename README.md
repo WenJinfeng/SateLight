@@ -1,5 +1,6 @@
 # SateLight: A Satellite Application Update Framework for Satellite Computing
 
+ This paper has been accepted for publication in ASE 2025!
 
  We release data and code used in this study to support reproducibility and future research.
 
